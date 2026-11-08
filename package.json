@@ -1,0 +1,27 @@
+{
+  "name": "pingroom-starter-booklet-imposition",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Collect booklet settings through PingRoom and map ordered pages onto folded signature sheets.",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "start": "node src/cli.js run",
+    "connect": "node src/cli.js connect",
+    "inspect": "node src/cli.js inspect",
+    "status": "node src/cli.js status",
+    "report": "node src/cli.js report",
+    "find-id": "node src/cli.js find",
+    "recover": "node src/cli.js recover",
+    "demo": "node src/demo.js",
+    "test": "node --test",
+    "validate": "node src/cli.js validate",
+    "export": "node src/cli.js export"
+  },
+  "dependencies": {
+    "@pingroom/sdk": "0.7.1"
+  },
+  "license": "MIT"
+}

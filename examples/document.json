@@ -1,0 +1,42 @@
+{
+  "documentId": "practice-guide-v1",
+  "title": "Practice workshop guide",
+  "pages": [
+    {
+      "id": "page-1",
+      "label": "Cover"
+    },
+    {
+      "id": "page-2",
+      "label": "Welcome"
+    },
+    {
+      "id": "page-3",
+      "label": "Materials"
+    },
+    {
+      "id": "page-4",
+      "label": "Preparation"
+    },
+    {
+      "id": "page-5",
+      "label": "Step one"
+    },
+    {
+      "id": "page-6",
+      "label": "Step two"
+    },
+    {
+      "id": "page-7",
+      "label": "Notes"
+    },
+    {
+      "id": "page-8",
+      "label": "Credits"
+    },
+    {
+      "id": "page-9",
+      "label": "Back note"
+    }
+  ]
+}
